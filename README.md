@@ -1,6 +1,6 @@
 # LINGUAGEM DE PROCESSAMENTO NATURAL
 
-## A ideia central do projeto é estudar sobre NLP, buscando uma análise de sentimento textual. Desta forma, o projeto foi dividido em etapas:
+## A ideia central do projeto é estudar sobre NLP. Buscando analisar sentimentos em textos. Desta forma, o projeto foi dividido em 3° etapas:
 
 ### 1° ETAPA:
 * COLETA DOS DADOS DO TWITTER:
